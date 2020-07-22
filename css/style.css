@@ -1,1 +1,12 @@
+/* 구글 폰트 import  */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
 @import "reset.css";
+@import "status-bar.css";
+
+/* default 값 설정  */
+body {
+  background-color: white;
+  padding: 10px 20px;
+  /* padding 첫번째 값은 top&bottom 이고 두번째 값은 left&right */
+  color: #020202;
+}
