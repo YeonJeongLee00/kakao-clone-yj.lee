@@ -4,7 +4,6 @@
 @import "status-bar.css";
 @import "header.css";
 @import "nav-bar.css";
-@import "friend.css";
 
 /* padding을 추가 할때 box가 그만큼 커지지 않게 한다. 
 그래서 우리는 content의 크기를 잃는당  */
